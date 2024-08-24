@@ -1,0 +1,13 @@
+site_name: Backrooms FD-Class Wiki
+site_url: https://chocolateater.github.io/FD-Class
+repo_url: https://github.com/chocolateater/FD-Class
+repo_name: Chocolateater/FD-Class
+edit_uri: edit/main/docs/
+theme:
+  name: material
+  palette:
+    primary: white
+    scheme: default
+  features:
+    - navigation.instant
+    - content.action.edit
